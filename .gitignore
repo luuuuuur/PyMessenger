@@ -1,2 +1,3 @@
 PyMessenger/__pycache__
-env
+.mikufile
+*.pem
